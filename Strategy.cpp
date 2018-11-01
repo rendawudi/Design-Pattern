@@ -11,6 +11,7 @@ class sort1 : public algorithm {
 };
 
 class Factory {
+public:
     algorithm* newAlgorithm()
     {
         return new sort1();
@@ -26,4 +27,4 @@ public:
 
 private:
     algorithm* alg;
-}
+};
