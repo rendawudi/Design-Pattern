@@ -1,7 +1,0 @@
-{
-    "files.autoGuessEncoding": true,
-    "window.zoomLevel": 0,
-    "typescript.format.placeOpenBraceOnNewLineForFunctions": true,
-    "editor.formatOnSave": true,
-    "C_Cpp.clang_format_fallbackStyle": "WebKit"
-}

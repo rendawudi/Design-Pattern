@@ -20,4 +20,4 @@ private:
 
     virtual void fun3(); //由子类实现
     virtual void fun4();
-}
+};
